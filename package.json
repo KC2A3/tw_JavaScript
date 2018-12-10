@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KC2A3/tw_JavaScript.git"
+  },
+  "author": "liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KC2A3/tw_JavaScript/issues"
+  },
+  "homepage": "https://github.com/KC2A3/tw_JavaScript#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11"
+  }
+}
